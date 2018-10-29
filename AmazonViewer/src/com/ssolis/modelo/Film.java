@@ -5,5 +5,8 @@ package com.ssolis.modelo;
  * @author SSolis
  */
 public class Film {
-
+  int id,duration,timeViewed;
+  short year;
+  boolean viewed;
+  String title;
 }
